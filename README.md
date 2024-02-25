@@ -1,9 +1,4 @@
-# Leaf_disease_detection_using_Keras
-
-## Dataset used:
-https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
-
-# Plant Disease Detection using Deep Learning
+# Leaf Disease Detection Using Deep Learning & Keras
 
 This project utilizes deep learning techniques to detect plant diseases from images of plant leaves. It employs convolutional neural networks (CNNs) implemented in Python using libraries such as TensorFlow and Keras.
 
