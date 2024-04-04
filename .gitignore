@@ -1,2 +1,5 @@
 .vscode
 .venv
+data
+.project-root
+outputs
