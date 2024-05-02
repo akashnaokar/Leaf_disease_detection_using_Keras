@@ -156,7 +156,7 @@ configs/local/default.yaml
 # Additional
 Dataset.zip
 
-data
+/data/
 .venv
 outputs
 .project-root
